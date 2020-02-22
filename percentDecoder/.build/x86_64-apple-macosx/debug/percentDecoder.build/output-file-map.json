@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/.build/x86_64-apple-macosx/debug/percentDecoder.build/master.swiftdeps"
+  },
+  "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/Sources/percentDecoder/CLI.swift": {
+    "dependencies": "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/.build/x86_64-apple-macosx/debug/percentDecoder.build/CLI.d",
+    "object": "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/.build/x86_64-apple-macosx/debug/percentDecoder.build/CLI.swift.o",
+    "swiftmodule": "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/.build/x86_64-apple-macosx/debug/percentDecoder.build/CLI~partial.swiftmodule",
+    "swift-dependencies": "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/.build/x86_64-apple-macosx/debug/percentDecoder.build/CLI.swiftdeps"
+  },
+  "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/Sources/percentDecoder/Decoder.swift": {
+    "dependencies": "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/.build/x86_64-apple-macosx/debug/percentDecoder.build/Decoder.d",
+    "object": "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/.build/x86_64-apple-macosx/debug/percentDecoder.build/Decoder.swift.o",
+    "swiftmodule": "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/.build/x86_64-apple-macosx/debug/percentDecoder.build/Decoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/.build/x86_64-apple-macosx/debug/percentDecoder.build/Decoder.swiftdeps"
+  },
+  "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/Sources/percentDecoder/Shell.swift": {
+    "dependencies": "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/.build/x86_64-apple-macosx/debug/percentDecoder.build/Shell.d",
+    "object": "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/.build/x86_64-apple-macosx/debug/percentDecoder.build/Shell.swift.o",
+    "swiftmodule": "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/.build/x86_64-apple-macosx/debug/percentDecoder.build/Shell~partial.swiftmodule",
+    "swift-dependencies": "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/.build/x86_64-apple-macosx/debug/percentDecoder.build/Shell.swiftdeps"
+  },
+  "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/Sources/percentDecoder/main.swift": {
+    "dependencies": "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/.build/x86_64-apple-macosx/debug/percentDecoder.build/main.d",
+    "object": "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/.build/x86_64-apple-macosx/debug/percentDecoder.build/main.swift.o",
+    "swiftmodule": "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/.build/x86_64-apple-macosx/debug/percentDecoder.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/.build/x86_64-apple-macosx/debug/percentDecoder.build/main.swiftdeps"
+  }
+}

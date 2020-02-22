@@ -1,0 +1,461 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "percentDecoderTests"
+provides-nominal:
+- "19percentDecoderTestsAAC"
+provides-member:
+- ["19percentDecoderTestsAAC", ""]
+provides-dynamic-lookup:
+- "productsDirectory"
+- "testExample"
+depends-top-level:
+- !private "??"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- !private "Bundle"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- !private "Pipe"
+- !private "Process"
+- !private "String"
+- "StringLiteralType"
+- "URL"
+- !private "XCTAssert"
+- "XCTestCase"
+- !private "fatalError"
+- "percentDecoderTests"
+- !private "print"
+depends-member:
+- !private ["SK", "hasSuffix"]
+- !private ["SK", "init"]
+- !private ["So8NSBundleC", "allBundles"]
+- !private ["So8NSBundleC", "bundlePath"]
+- !private ["So8NSBundleC", "bundleURL"]
+- !private ["s7CVarArgP", "Bundle"]
+- !private ["s7CVarArgP", "Pipe"]
+- !private ["s7CVarArgP", "Process"]
+- !private ["s7CVarArgP", "String"]
+- !private ["s7CVarArgP", "XCTAssert"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "allBundles"]
+- !private ["s7CVarArgP", "bundlePath"]
+- !private ["s7CVarArgP", "bundleURL"]
+- !private ["s7CVarArgP", "executableURL"]
+- !private ["s7CVarArgP", "fatalError"]
+- !private ["s7CVarArgP", "fileHandleForReading"]
+- !private ["s7CVarArgP", "hasSuffix"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "productsDirectory"]
+- !private ["s7CVarArgP", "readDataToEndOfFile"]
+- !private ["s7CVarArgP", "run"]
+- !private ["s7CVarArgP", "standardOutput"]
+- ["s7CVarArgP", "testExample"]
+- !private ["s7CVarArgP", "waitUntilExit"]
+- !private ["Sl", "hasSuffix"]
+- !private ["Sl", "init"]
+- !private ["SL", "hasSuffix"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "Bundle"]
+- !private ["s28CustomDebugStringConvertibleP", "Pipe"]
+- !private ["s28CustomDebugStringConvertibleP", "Process"]
+- !private ["s28CustomDebugStringConvertibleP", "String"]
+- !private ["s28CustomDebugStringConvertibleP", "XCTAssert"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "allBundles"]
+- !private ["s28CustomDebugStringConvertibleP", "appendingPathComponent"]
+- !private ["s28CustomDebugStringConvertibleP", "bundlePath"]
+- !private ["s28CustomDebugStringConvertibleP", "bundleURL"]
+- !private ["s28CustomDebugStringConvertibleP", "deletingLastPathComponent"]
+- !private ["s28CustomDebugStringConvertibleP", "executableURL"]
+- !private ["s28CustomDebugStringConvertibleP", "fatalError"]
+- !private ["s28CustomDebugStringConvertibleP", "fileHandleForReading"]
+- !private ["s28CustomDebugStringConvertibleP", "hasSuffix"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "productsDirectory"]
+- !private ["s28CustomDebugStringConvertibleP", "readDataToEndOfFile"]
+- !private ["s28CustomDebugStringConvertibleP", "run"]
+- !private ["s28CustomDebugStringConvertibleP", "standardOutput"]
+- ["s28CustomDebugStringConvertibleP", "testExample"]
+- !private ["s28CustomDebugStringConvertibleP", "waitUntilExit"]
+- !private ["s17CustomReflectableP", "hasSuffix"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "Bundle"]
+- !private ["s23CustomStringConvertibleP", "Pipe"]
+- !private ["s23CustomStringConvertibleP", "Process"]
+- !private ["s23CustomStringConvertibleP", "String"]
+- !private ["s23CustomStringConvertibleP", "XCTAssert"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "allBundles"]
+- !private ["s23CustomStringConvertibleP", "appendingPathComponent"]
+- !private ["s23CustomStringConvertibleP", "bundlePath"]
+- !private ["s23CustomStringConvertibleP", "bundleURL"]
+- !private ["s23CustomStringConvertibleP", "deletingLastPathComponent"]
+- !private ["s23CustomStringConvertibleP", "executableURL"]
+- !private ["s23CustomStringConvertibleP", "fatalError"]
+- !private ["s23CustomStringConvertibleP", "fileHandleForReading"]
+- !private ["s23CustomStringConvertibleP", "hasSuffix"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "productsDirectory"]
+- !private ["s23CustomStringConvertibleP", "readDataToEndOfFile"]
+- !private ["s23CustomStringConvertibleP", "run"]
+- !private ["s23CustomStringConvertibleP", "standardOutput"]
+- ["s23CustomStringConvertibleP", "testExample"]
+- !private ["s23CustomStringConvertibleP", "utf8"]
+- !private ["s23CustomStringConvertibleP", "waitUntilExit"]
+- !private ["Se", "appendingPathComponent"]
+- !private ["Se", "deletingLastPathComponent"]
+- !private ["Se", "hasSuffix"]
+- !private ["Se", "init"]
+- !private ["SE", "appendingPathComponent"]
+- !private ["SE", "deletingLastPathComponent"]
+- !private ["SE", "hasSuffix"]
+- !private ["SE", "init"]
+- !private ["SS10FoundationE8EncodingV", "utf8"]
+- !private ["SQ", "Bundle"]
+- !private ["SQ", "Pipe"]
+- !private ["SQ", "Process"]
+- !private ["SQ", "String"]
+- !private ["SQ", "XCTAssert"]
+- ["SQ", ""]
+- !private ["SQ", "allBundles"]
+- !private ["SQ", "appendingPathComponent"]
+- !private ["SQ", "bundlePath"]
+- !private ["SQ", "bundleURL"]
+- !private ["SQ", "deletingLastPathComponent"]
+- !private ["SQ", "executableURL"]
+- !private ["SQ", "fatalError"]
+- !private ["SQ", "fileHandleForReading"]
+- !private ["SQ", "hasSuffix"]
+- !private ["SQ", "init"]
+- !private ["SQ", "print"]
+- !private ["SQ", "productsDirectory"]
+- !private ["SQ", "readDataToEndOfFile"]
+- !private ["SQ", "run"]
+- !private ["SQ", "standardOutput"]
+- ["SQ", "testExample"]
+- !private ["SQ", "utf8"]
+- !private ["SQ", "waitUntilExit"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "hasSuffix"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", "hasSuffix"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "hasSuffix"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "hasSuffix"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["So12NSFileHandleC", "readDataToEndOfFile"]
+- !private ["SH", "Bundle"]
+- !private ["SH", "Pipe"]
+- !private ["SH", "Process"]
+- !private ["SH", "String"]
+- !private ["SH", "XCTAssert"]
+- ["SH", ""]
+- !private ["SH", "allBundles"]
+- !private ["SH", "appendingPathComponent"]
+- !private ["SH", "bundlePath"]
+- !private ["SH", "bundleURL"]
+- !private ["SH", "deletingLastPathComponent"]
+- !private ["SH", "executableURL"]
+- !private ["SH", "fatalError"]
+- !private ["SH", "fileHandleForReading"]
+- !private ["SH", "hasSuffix"]
+- !private ["SH", "init"]
+- !private ["SH", "print"]
+- !private ["SH", "productsDirectory"]
+- !private ["SH", "readDataToEndOfFile"]
+- !private ["SH", "run"]
+- !private ["SH", "standardOutput"]
+- ["SH", "testExample"]
+- !private ["SH", "utf8"]
+- !private ["SH", "waitUntilExit"]
+- !private ["s25LosslessStringConvertibleP", "hasSuffix"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "hasSuffix"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "hasSuffix"]
+- !private ["So8NSCodingP", "readDataToEndOfFile"]
+- !private ["So9NSCopyingP", "hasSuffix"]
+- !private ["So21NSItemProviderReadingP", "hasSuffix"]
+- !private ["So21NSItemProviderWritingP", "hasSuffix"]
+- !private ["So16NSMutableCopyingP", "hasSuffix"]
+- !private ["So8NSObjectC", "Bundle"]
+- !private ["So8NSObjectC", "Pipe"]
+- !private ["So8NSObjectC", "Process"]
+- !private ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "URL"]
+- !private ["So8NSObjectC", "XCTAssert"]
+- !private ["So8NSObjectC", "allBundles"]
+- ["So8NSObjectC", "allTests"]
+- !private ["So8NSObjectC", "bundlePath"]
+- !private ["So8NSObjectC", "bundleURL"]
+- !private ["So8NSObjectC", "executableURL"]
+- !private ["So8NSObjectC", "fatalError"]
+- !private ["So8NSObjectC", "fileHandleForReading"]
+- !private ["So8NSObjectC", "hasSuffix"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "print"]
+- ["So8NSObjectC", "productsDirectory"]
+- !private ["So8NSObjectC", "readDataToEndOfFile"]
+- !private ["So8NSObjectC", "run"]
+- !private ["So8NSObjectC", "standardOutput"]
+- ["So8NSObjectC", "testExample"]
+- !private ["So8NSObjectC", "waitUntilExit"]
+- !private ["So8NSObjectP", "Bundle"]
+- !private ["So8NSObjectP", "Pipe"]
+- !private ["So8NSObjectP", "Process"]
+- !private ["So8NSObjectP", "String"]
+- !private ["So8NSObjectP", "XCTAssert"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "allBundles"]
+- !private ["So8NSObjectP", "bundlePath"]
+- !private ["So8NSObjectP", "bundleURL"]
+- !private ["So8NSObjectP", "executableURL"]
+- !private ["So8NSObjectP", "fatalError"]
+- !private ["So8NSObjectP", "fileHandleForReading"]
+- !private ["So8NSObjectP", "hasSuffix"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "print"]
+- !private ["So8NSObjectP", "productsDirectory"]
+- !private ["So8NSObjectP", "readDataToEndOfFile"]
+- !private ["So8NSObjectP", "run"]
+- !private ["So8NSObjectP", "standardOutput"]
+- ["So8NSObjectP", "testExample"]
+- !private ["So8NSObjectP", "waitUntilExit"]
+- !private ["So19NSPasteboardReadingP", "hasSuffix"]
+- !private ["So19NSPasteboardWritingP", "hasSuffix"]
+- !private ["So14NSSecureCodingP", "hasSuffix"]
+- !private ["So14NSSecureCodingP", "readDataToEndOfFile"]
+- !private ["So8NSStringC", "hasSuffix"]
+- !private ["So6NSPipeC", "fileHandleForReading"]
+- !private ["So6NSPipeC", "init"]
+- !private ["So6NSTaskC", "executableURL"]
+- !private ["So6NSTaskC", "init"]
+- !private ["So6NSTaskC", "run"]
+- !private ["So6NSTaskC", "standardOutput"]
+- !private ["So6NSTaskC", "waitUntilExit"]
+- !private ["Sm", "hasSuffix"]
+- !private ["Sm", "init"]
+- !private ["SY", "utf8"]
+- !private ["10Foundation20ReferenceConvertibleP", "appendingPathComponent"]
+- !private ["10Foundation20ReferenceConvertibleP", "deletingLastPathComponent"]
+- !private ["ST", "hasSuffix"]
+- !private ["ST", "init"]
+- !private ["SS", "hasSuffix"]
+- !private ["SS", "init"]
+- !private ["Sy", "hasSuffix"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "hasSuffix"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "hasSuffix"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["10Foundation3URLV", "appendingPathComponent"]
+- !private ["10Foundation3URLV", "deletingLastPathComponent"]
+- !private ["So11XCTActivityP", "Bundle"]
+- !private ["So11XCTActivityP", "Pipe"]
+- !private ["So11XCTActivityP", "Process"]
+- !private ["So11XCTActivityP", "String"]
+- !private ["So11XCTActivityP", "XCTAssert"]
+- ["So11XCTActivityP", ""]
+- !private ["So11XCTActivityP", "fatalError"]
+- !private ["So11XCTActivityP", "init"]
+- !private ["So11XCTActivityP", "print"]
+- !private ["So11XCTActivityP", "productsDirectory"]
+- ["So11XCTActivityP", "testExample"]
+- !private ["So17XCTWaiterDelegateP", "Bundle"]
+- !private ["So17XCTWaiterDelegateP", "Pipe"]
+- !private ["So17XCTWaiterDelegateP", "Process"]
+- !private ["So17XCTWaiterDelegateP", "String"]
+- !private ["So17XCTWaiterDelegateP", "XCTAssert"]
+- ["So17XCTWaiterDelegateP", ""]
+- !private ["So17XCTWaiterDelegateP", "fatalError"]
+- !private ["So17XCTWaiterDelegateP", "init"]
+- !private ["So17XCTWaiterDelegateP", "print"]
+- !private ["So17XCTWaiterDelegateP", "productsDirectory"]
+- ["So17XCTWaiterDelegateP", "testExample"]
+- !private ["So6XCTestC", "Bundle"]
+- !private ["So6XCTestC", "Pipe"]
+- !private ["So6XCTestC", "Process"]
+- !private ["So6XCTestC", "String"]
+- ["So6XCTestC", "URL"]
+- !private ["So6XCTestC", "XCTAssert"]
+- ["So6XCTestC", "allTests"]
+- !private ["So6XCTestC", "fatalError"]
+- ["So6XCTestC", "init"]
+- !private ["So6XCTestC", "print"]
+- ["So6XCTestC", "productsDirectory"]
+- ["So6XCTestC", "testExample"]
+- !private ["So10XCTestCaseC", "Bundle"]
+- !private ["So10XCTestCaseC", "Pipe"]
+- !private ["So10XCTestCaseC", "Process"]
+- !private ["So10XCTestCaseC", "String"]
+- ["So10XCTestCaseC", "URL"]
+- !private ["So10XCTestCaseC", "XCTAssert"]
+- ["So10XCTestCaseC", ""]
+- ["So10XCTestCaseC", "allTests"]
+- !private ["So10XCTestCaseC", "fatalError"]
+- ["So10XCTestCaseC", "init"]
+- !private ["So10XCTestCaseC", "print"]
+- ["So10XCTestCaseC", "productsDirectory"]
+- ["So10XCTestCaseC", "testExample"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "appendingPathComponent"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "deletingLastPathComponent"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "hasSuffix"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "hasSuffix"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "hasSuffix"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "hasSuffix"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "appendingPathComponent"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "deletingLastPathComponent"]
+- !private ["s19_HasContiguousBytesP", "hasSuffix"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "hasSuffix"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Bundle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Pipe"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Process"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "String"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "XCTAssert"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "allBundles"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bundlePath"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bundleURL"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "executableURL"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fatalError"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fileHandleForReading"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "hasSuffix"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "productsDirectory"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "readDataToEndOfFile"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "run"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "standardOutput"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "testExample"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "waitUntilExit"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Bundle"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Pipe"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Process"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "String"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "XCTAssert"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "allBundles"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "bundlePath"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "bundleURL"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "executableURL"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "fatalError"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "fileHandleForReading"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "hasSuffix"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "print"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "productsDirectory"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "readDataToEndOfFile"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "run"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "standardOutput"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "testExample"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "waitUntilExit"]
+- !private ["s21_ObjectiveCBridgeableP", "appendingPathComponent"]
+- !private ["s21_ObjectiveCBridgeableP", "deletingLastPathComponent"]
+- !private ["s21_ObjectiveCBridgeableP", "hasSuffix"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["19percentDecoderTestsAAC", "Bundle"]
+- !private ["19percentDecoderTestsAAC", "Pipe"]
+- !private ["19percentDecoderTestsAAC", "Process"]
+- !private ["19percentDecoderTestsAAC", "String"]
+- ["19percentDecoderTestsAAC", "URL"]
+- !private ["19percentDecoderTestsAAC", "XCTAssert"]
+- ["19percentDecoderTestsAAC", "allTests"]
+- ["19percentDecoderTestsAAC", "deinit"]
+- !private ["19percentDecoderTestsAAC", "fatalError"]
+- ["19percentDecoderTestsAAC", "init"]
+- !private ["19percentDecoderTestsAAC", "print"]
+- ["19percentDecoderTestsAAC", "productsDirectory"]
+- ["19percentDecoderTestsAAC", "testExample"]
+depends-nominal:
+- !private "SK"
+- !private "So8NSBundleC"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- !private "SS10FoundationE8EncodingV"
+- "SQ"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "So12NSFileHandleC"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So19NSPasteboardReadingP"
+- !private "So19NSPasteboardWritingP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "So6NSPipeC"
+- !private "So6NSTaskC"
+- !private "Sm"
+- !private "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "ST"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "10Foundation3URLV"
+- "So11XCTActivityP"
+- "So17XCTWaiterDelegateP"
+- "So6XCTestC"
+- "So10XCTestCaseC"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s34_ExpressibleByFileReferenceLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- "19percentDecoderTestsAAC"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/ObjectiveC.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Swift.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/SwiftOnoneSupport.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreData.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Combine.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Metal.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/AppKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTest.apinotes"
+interface-hash: "c2cdb81ea6378253cd393ceafd3d4155"

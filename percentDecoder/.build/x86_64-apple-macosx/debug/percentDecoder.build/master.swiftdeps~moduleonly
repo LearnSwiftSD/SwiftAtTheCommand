@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "af6545ef1d553c83f03ff8a74ee33e74"
+build_time: [1582404585, 207131000]
+inputs:
+  "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/Sources/percentDecoder/CLI.swift": [1582404545, 442085907]
+  "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/Sources/percentDecoder/Decoder.swift": [1582404293, 41415104]
+  "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/Sources/percentDecoder/Shell.swift": [1582404357, 977895734]
+  "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/Sources/percentDecoder/main.swift": [1582404310, 699818656]

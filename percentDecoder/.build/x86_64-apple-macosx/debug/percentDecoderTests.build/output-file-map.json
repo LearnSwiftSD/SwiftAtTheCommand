@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/.build/x86_64-apple-macosx/debug/percentDecoderTests.build/master.swiftdeps"
+  },
+  "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/Tests/percentDecoderTests/XCTestManifests.swift": {
+    "dependencies": "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/.build/x86_64-apple-macosx/debug/percentDecoderTests.build/XCTestManifests.d",
+    "object": "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/.build/x86_64-apple-macosx/debug/percentDecoderTests.build/XCTestManifests.swift.o",
+    "swiftmodule": "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/.build/x86_64-apple-macosx/debug/percentDecoderTests.build/XCTestManifests~partial.swiftmodule",
+    "swift-dependencies": "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/.build/x86_64-apple-macosx/debug/percentDecoderTests.build/XCTestManifests.swiftdeps"
+  },
+  "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/Tests/percentDecoderTests/percentDecoderTests.swift": {
+    "dependencies": "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/.build/x86_64-apple-macosx/debug/percentDecoderTests.build/percentDecoderTests.d",
+    "object": "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/.build/x86_64-apple-macosx/debug/percentDecoderTests.build/percentDecoderTests.swift.o",
+    "swiftmodule": "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/.build/x86_64-apple-macosx/debug/percentDecoderTests.build/percentDecoderTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/.build/x86_64-apple-macosx/debug/percentDecoderTests.build/percentDecoderTests.swiftdeps"
+  }
+}

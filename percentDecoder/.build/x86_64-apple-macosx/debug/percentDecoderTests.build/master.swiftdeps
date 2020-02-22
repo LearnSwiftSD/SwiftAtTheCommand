@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "18d45b5cf4b6d78d9df31ec8ee50c7da"
+build_time: [1582404592, 527476000]
+inputs:
+  "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/Tests/percentDecoderTests/XCTestManifests.swift": [1582403904, 387276491]
+  "/Users/enuance/Desktop/SwiftAtTheCommand/percentDecoder/Tests/percentDecoderTests/percentDecoderTests.swift": [1582404438, 811237999]
